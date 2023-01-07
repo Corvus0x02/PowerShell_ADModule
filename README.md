@@ -12,9 +12,7 @@ Alternatively, you can download and save Microsoft.ActiveDirectory.Management.dl
 # Usage
 [GitBook Command References](https://book.krobotsecurity.com/infosec/powershell-and-active-directory/active-directory-powershell-module)
 
-# Additional References and Credit
-https://github.com/samratashok/ADModule
-https://www.labofapenetrationtester.com/2018/10/domain-enumeration-from-PowerShell-CLM.html
-https://learn.microsoft.com/en-us/powershell/module/activedirectory/?view=windowsserver2022-ps
-[The Cyber Mentor](https://www.youtube.com/watch?v=xftEuVQ7kY0&ab_channel=TheCyberMentor)
+# Additional References
+[Nikhil "SamratAshok" Mittal's 2018 Blog Post](https://www.labofapenetrationtester.com/2018/10/domain-enumeration-from-PowerShell-CLM.html)
+[The Cyber Mentor's Building an AD Lab](https://www.youtube.com/watch?v=xftEuVQ7kY0&ab_channel=TheCyberMentor)
 [Building Free Active Directory Lab in Azure](https://kamran-bilgrami.medium.com/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
