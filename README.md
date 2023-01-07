@@ -14,5 +14,7 @@ Alternatively, you can download and save Microsoft.ActiveDirectory.Management.dl
 
 # Additional References
 [Nikhil "SamratAshok" Mittal's 2018 Blog Post](https://www.labofapenetrationtester.com/2018/10/domain-enumeration-from-PowerShell-CLM.html)
+
 [The Cyber Mentor's Building an AD Lab](https://www.youtube.com/watch?v=xftEuVQ7kY0&ab_channel=TheCyberMentor)
+
 [Building Free Active Directory Lab in Azure](https://kamran-bilgrami.medium.com/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
