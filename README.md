@@ -6,10 +6,9 @@ One key point that is not mentioned however - ***When authenticated to a domain,
 # Install & Setup
 Recommended install/setup is by installing Microsoft's Remote Server Administration Tools (RSAT). See [4SYSOPS Website](https://4sysops.com/wiki/how-to-install-the-powershell-active-directory-module/) for instructions. The primary DLL is typically saved at C:\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.ActiveDirectory.Management and the rest of the module files are saved to C:\Windows\System32\WindowsPowerShell\v1.0\Modules\ActiveDirectory\
 
-Alternatively, you can download and save Microsoft.ActiveDirectory.Management.dll from this repo (or transfer the file from a host that already has RSAT installed) and manually import the module into a PowerShell instance.
+Alternatively, you can download and save Microsoft.ActiveDirectory.Management.dll from this repo and manually import it into a PowerShell instance by running "Import-Module .\Microsoft.ActiveDirectory.Management.dll" (not recommended unless you are in a lab environment.)
 
-
-# Usage
+# Usage & Commands
 [GitBook Command References](https://book.krobotsecurity.com/infosec/powershell-and-active-directory/active-directory-powershell-module)
 
 # Additional References
